@@ -141,8 +141,8 @@ docs = ["proselint (>=0.10.2)", "sphinx (>=3)", "sphinx-argparse (>=0.2.5)", "sp
 testing = ["coverage (>=4)", "coverage-enable-subprocess (>=1)", "flaky (>=3)", "pytest (>=4)", "pytest-env (>=0.6.2)", "pytest-freezegun (>=0.4.1)", "pytest-mock (>=2)", "pytest-randomly (>=1)", "pytest-timeout (>=1)", "pytest-xdist (>=1.31.0)", "packaging (>=20.0)", "xonsh (>=0.9.16)"]
 
 [metadata]
-content-hash = "bcd62d6d805800e5ff0ec5f501b3dec1434467b156e41a0be18c31da3eb7d047"
-python-versions = "^3.8.5"
+content-hash = "e546fea2b3ffe904490778d7d332b399467858c6bdfb4fcbfb71093a2d8e09df"
+python-versions = "^3.8"
 
 [metadata.files]
 appdirs = [
